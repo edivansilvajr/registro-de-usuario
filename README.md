@@ -31,4 +31,4 @@ Este projeto consiste em um formulário de registro de usuários simples e respo
 
 **1. Clonando o Repositório**
 ```bash
-git clone [https://github.com/](https://github.com/)<seu_usuario>/<seu_repositorio>.git
+git clone https://github.com/edivansilvajr/registro-de-usuario.git
